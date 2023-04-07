@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @surendra7723
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning some programming and relational database
-- 💞️ I’m looking to collaborate on with some projects to implement my skills
-- 📫 How to reach me twitter:@surendr1729 
-My Gmail address : surendrathapa986@gmail.com
-
-
-<!---
-surendra7723/surendra7723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! I'm a tech enthusiast who's passionate about web development and cybersecurity. 
+💻 After exploring the world of cybersecurity, I've found my true calling in web development. 
+I'm currently in love with the MVT structure of Django and I'm constantly learning new things about this amazing Python-based web framework. 
+🌟 I'm always on the lookout for new ideas to implement what I've learned and I'm excited to take on new challenges. 
+When I'm not coding, you can find me tinkering with Linux and creating virtual machines. 🐧 Let's connect and build something awesome together!
